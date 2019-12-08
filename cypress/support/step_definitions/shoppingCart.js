@@ -1,4 +1,4 @@
-import { And, When, Then} from 'cypress-cucumber-preprocessor/steps'
+import { And, When, Then } from 'cypress-cucumber-preprocessor/steps'
 
 And ('user clicks on the Add to cart buttom', () => {
     cy.scrollTo(0, 550)
