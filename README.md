@@ -1,4 +1,4 @@
-# ciandtChallenge
+# Instructions
 
 This file aims to help you setting up the Cypress environment on Windows. 
 
