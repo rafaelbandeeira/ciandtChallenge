@@ -44,5 +44,4 @@ export function generateLastName() {
 	return name;
 
 }
-
 */
