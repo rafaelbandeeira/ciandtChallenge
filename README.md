@@ -18,5 +18,5 @@ This file aims to help you setting up the Cypress environment on Windows.
 
 6. Click on "Run all specs", it can be found on the right corner of the Cypress Test Runner
 
-Additionally, after setting up Cypress, you can the tests headlessly by executing the batch file "run_and_report.bat".
-The report is available in the mochawesome-report folder as an html file named report.html.
+Additionally, after setting up Cypress, you can run the tests headlessly by executing the batch file "run_and_report.bat".
+The report is available in the mochawesome-report folder, named report.html.
